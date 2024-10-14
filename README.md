@@ -1,4 +1,4 @@
 # Data-Analyst-Portfolio
 ## Project using SQL and Power BI
 
-![Alt text](pizza_PowerBI.jpg)
+![Alt text](Pizaa Case Study : SQL & Power BI/pizza_PowerBI.png)
